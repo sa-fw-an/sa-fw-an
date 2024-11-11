@@ -1,15 +1,19 @@
 <h1 align="center">Hi, I'm Safwan Sayeed✨</h1>
 
+
 <h4 align="left">
 🔭 I’m working on Full Stack Web, Android Applications, and Blockchain Development.<br>
 🤝 Connect with me at isafwansayeed@gmail.com<br>
 💬 All my projects are available at www.safwansayeed.live
 </h4>
 
-<img src="https://visitcount.itsvg.in/api?id=sa-fw-an&icon=0&color=0" />
+<div align="right">
+  <img src="https://visitcount.itsvg.in/api?id=sa-fw-an&icon=0&color=0"  height="25" />
+</div>
+
+<br>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sa-fw-an&hide_title=true&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=shadow_blue&locale=en&hide_border=false" height="150" alt="stats graph"  />
   <img src="https://streak-stats.demolab.com?user=sa-fw-an&locale=en&mode=daily&theme=shadow_blue&hide_border=false&border_radius=5" height="150" alt="streak graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=sa-fw-an&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=shadow_blue&hide_border=false" height="150" alt="languages graph"  />
 </div>
@@ -67,14 +71,14 @@
 <h4>
 Contact me
 </h4>
+  <a href="mailto:isafwansayeed@gmail.com" target="_blank">
+    <img src="https://skillicons.dev/icons?i=gmail" width="47" height="35" alt="gmail logo"  />
+  </a>
   <a href="https://www.linkedin.com/in/safwan-sayeed-6a3a482a9" target="_blank">
     <img src="https://skillicons.dev/icons?i=linkedin" width="47" height="35" alt="linkedin logo"  />
   </a>
   <a href="https://twitter.com/sa-fw-an" target="_blank">
     <img src="https://skillicons.dev/icons?i=twitter" width="47" height="35" alt="twitter logo"  />
-  </a>
-  <a href="mailto:isafwansayeed@gmail.com" target="_blank">
-    <img src="https://skillicons.dev/icons?i=gmail" width="47" height="35" alt="gmail logo"  />
   </a>
 </div>
 
