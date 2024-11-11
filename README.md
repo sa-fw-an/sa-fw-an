@@ -14,6 +14,8 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=sa-fw-an&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=shadow_blue&hide_border=false" height="150" alt="languages graph"  />
 </div>
 
+<br>
+
 <div align="left">
   <img src="https://skillicons.dev/icons?i=aws" height="30" alt="amazonwebservices logo"  />
   <img src="https://skillicons.dev/icons?i=bootstrap" height="30" alt="bootstrap logo"  />
