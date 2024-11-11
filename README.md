@@ -2,7 +2,7 @@
 🔭 I’m working on Full Stack Web, Android Applications, and Blockchain Development.<br>
 🌱 I’m currently learning Rust, Generative AI, and DevOps.<br>
 🤝 Connect with me at isafwansayeed@gmail.com<br>
-💬 All my projects are available at ![www.safwansayeed.live](https://www.safwansayeed.live)
+💬 All my projects are available at www.safwansayeed.live
 </h4>
 
 <div align="center">
