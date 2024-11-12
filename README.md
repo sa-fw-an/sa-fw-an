@@ -68,23 +68,28 @@
 <br>
 
 <div align="left">
-<h4>
-Contact me
-</h4>
+
+  <h4>
+    Contact me
+  </h4>
+
   <a href="mailto:isafwansayeed@gmail.com" target="_blank">
     <img src="https://skillicons.dev/icons?i=gmail" width="47" height="35" alt="gmail logo"  />
   </a>
+
   <a href="https://www.linkedin.com/in/safwan-sayeed-6a3a482a9" target="_blank">
     <img src="https://skillicons.dev/icons?i=linkedin" width="47" height="35" alt="linkedin logo"  />
   </a>
+
   <a href="https://twitter.com/sa-fw-an" target="_blank">
     <img src="https://skillicons.dev/icons?i=twitter" width="47" height="35" alt="twitter logo"  />
   </a>
+
   <div align="center">
    <img src="./assets/monkey.gif.gif" height="300" alt="monkey gif" />
   </div>
+  
 </div>
-
 
 <br clear="both">
 
