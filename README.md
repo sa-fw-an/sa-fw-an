@@ -14,7 +14,7 @@
 <br>
 
 <div align="center">
-  <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=sa-fw-an&theme=blue-green" height="160" alt="GitHub Streak" /></a>
+ <img src="https://streak-stats.demolab.com?user=sa-fw-an&theme=blue-green" height="160" alt="GitHub Streak" />
   <img src='https://github-readme-stats.vercel.app/api/top-langs/?username=sa-fw-an&layout=compact&theme=radical' height="160"/>
 </div>
 
