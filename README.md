@@ -52,7 +52,6 @@
   <img src="https://skillicons.dev/icons?i=py" height="30" alt="python logo"  />
   <img src="https://skillicons.dev/icons?i=java" height="30" alt="java logo"  />
   <img src="https://skillicons.dev/icons?i=react" height="30" alt="react logo"  />
-  <img src="https://skillicons.dev/icons?i=solidity" height="30" alt="solidity logo"  />
   <img src="https://skillicons.dev/icons?i=matlab" height="30" alt="matlab logo"  />
   <img src="https://skillicons.dev/icons?i=vite" height="30" alt="vite logo"  />
   <img src="https://skillicons.dev/icons?i=vercel" height="30" alt="vercel logo"  />
