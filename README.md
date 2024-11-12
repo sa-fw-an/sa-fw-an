@@ -81,7 +81,7 @@
     <img src="https://skillicons.dev/icons?i=linkedin" width="47" height="35" alt="linkedin logo"  />
   </a>
 
-  <a href="https://twitter.com/sa-fw-an" target="_blank">
+  <a href="https://x.com/safwan_say" target="_blank">
     <img src="https://skillicons.dev/icons?i=twitter" width="47" height="35" alt="twitter logo"  />
   </a>
 
