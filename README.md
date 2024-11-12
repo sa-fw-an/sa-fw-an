@@ -80,7 +80,11 @@ Contact me
   <a href="https://twitter.com/sa-fw-an" target="_blank">
     <img src="https://skillicons.dev/icons?i=twitter" width="47" height="35" alt="twitter logo"  />
   </a>
+  <div align="center">
+   <img src="./assets/monkey.gif.gif" height="300" alt="monkey gif" />
+  </div>
 </div>
+
 
 <br clear="both">
 
