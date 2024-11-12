@@ -86,9 +86,9 @@
   </a>
 
   <div align="center">
-   <img src="./assets/monkey.gif.gif" height="300" alt="monkey gif" />
+   <img src="./assets/monkey.gif" height="300" alt="monkey gif" />
   </div>
-  
+
 </div>
 
 <br clear="both">
