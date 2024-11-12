@@ -14,8 +14,8 @@
 <br>
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=sa-fw-an&locale=en&mode=daily&theme=shadow_blue&hide_border=false&border_radius=5" height="150" alt="streak graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=sa-fw-an&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=shadow_blue&hide_border=false" height="150" alt="languages graph"  />
+  <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=sa-fw-an&theme=blue-green" alt="GitHub Streak" /></a>
+  <img src='https://github-readme-stats.vercel.app/api/top-langs/?username=sa-fw-an&layout=compact&theme=radical'/>
 </div>
 
 <br>
