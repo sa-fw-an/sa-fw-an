@@ -81,7 +81,7 @@
   </a>
 
   <a href="https://x.com/safwan_say" target="_blank">
-    <img src="https://skillicons.dev/icons?i=twitter" width="47" height="35" alt="twitter logo"  />
+    <img src="./assets/x.svg" width="47" height="35" alt="x logo"  />
   </a>
 
   <div align="center">
