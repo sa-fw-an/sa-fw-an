@@ -21,6 +21,11 @@
 <br>
 
 <div align="left">
+  
+  <h4>
+    My Tech Stack:
+  </h4>
+  
   <img src="https://skillicons.dev/icons?i=aws" height="30" alt="amazonwebservices logo"  />
   <img src="https://skillicons.dev/icons?i=bootstrap" height="30" alt="bootstrap logo"  />
   <img src="https://skillicons.dev/icons?i=cpp" height="30" alt="cplusplus logo"  />
@@ -69,7 +74,7 @@
 <div align="left">
 
   <h4>
-    Contact me
+    Contact me:
   </h4>
 
   <a href="mailto:isafwansayeed@gmail.com" target="_blank">
