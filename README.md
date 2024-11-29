@@ -89,6 +89,10 @@
     <img src="./assets/x.svg" width="47" height="35" alt="x logo"  />
   </a>
 
+  <a href="https://reddit.com/u/safwan_say/" target="_blank">
+    <img src="./assets/reddit.svg" width="47" height="35" alt="x logo"  />
+  </a>
+
   <div align="center">
    <img src="./assets/monkey.gif" height="300" alt="monkey gif" />
   </div>
