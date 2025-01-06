@@ -8,7 +8,7 @@
 </h4>
 
 <div align="right">
-  <img src="https://visitcount.itsvg.in/api?id=sa-fw-an&icon=0&color=0"  height="25" />
+  <img src="https://komarev.com/ghpvc/?username=sa-fw-an&abbreviated=true&for-the-badge"  height="25" />
 </div>
 
 <br>
@@ -89,8 +89,12 @@
     <img src="./assets/x.svg" width="47" height="35" alt="x logo"  />
   </a>
 
-  <a href="https://reddit.com/u/safwan_say/" target="_blank">
-    <img src="./assets/reddit.svg" width="47" height="35" alt="x logo"  />
+  <a href="https://reddit.com/u/safwan_say" target="_blank">
+    <img src="./assets/reddit.svg" width="47" height="35" alt="reddit logo"  />
+  </a>
+
+  <a href="https://www.instagram.com/safwan_say1" target="_blank">
+    <img src="https://skillicons.dev/icons?i=instagram" width="47" height="35" alt="instagram logo"  />
   </a>
 
   <div align="center">
