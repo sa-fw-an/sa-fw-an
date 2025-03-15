@@ -1,6 +1,7 @@
 <h1 align="center">Hi, I'm Safwan Sayeed✨</h1>
-
-
+<p align="center">
+  <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
+</p>
 <h4 align="left">
 🔭 I’m working on Full Stack Web, Android Applications, Game and Blockchain Development.<br>
 🤝 Connect with me at isafwansayeed@gmail.com<br>
@@ -96,6 +97,10 @@
   <a href="https://www.instagram.com/safwan_say1" target="_blank">
     <img src="https://skillicons.dev/icons?i=instagram" width="47" height="35" alt="instagram logo"  />
   </a>
+  
+  <p align="center">
+  <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
+</p>
 
   <div align="center">
    <img src="./assets/monkey.gif" height="300" alt="monkey gif" />
@@ -106,3 +111,7 @@
 <br clear="both">
 
 <img src="https://raw.githubusercontent.com/sa-fw-an/sa-fw-an/output/snake.svg" alt="Snake animation" />
+
+<p align="center">
+  <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
+</p>
