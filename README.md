@@ -77,6 +77,8 @@
   <h4>
     Contact me:
   </h4>
+  
+  <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">
 
   <a href="mailto:isafwansayeed@gmail.com" target="_blank">
     <img src="https://skillicons.dev/icons?i=gmail" width="47" height="35" alt="gmail logo"  />
