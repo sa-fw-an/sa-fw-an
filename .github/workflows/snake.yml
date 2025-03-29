@@ -30,6 +30,7 @@ jobs:
         with:
           target_branch: output
           build_dir: dist
+          keep_history: true
           commit_message: "Update snake animation"
           committer: "${{ secrets.USER_NAME }} <${{ secrets.USER_EMAIL }}>"
           author: "${{ secrets.USER_NAME }} <${{ secrets.USER_EMAIL }}>"
