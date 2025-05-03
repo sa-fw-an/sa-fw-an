@@ -30,9 +30,5 @@ jobs:
         with:
           target_branch: output
           build_dir: dist
-          keep_history: true
-          commit_message: "Update snake animation"
-          committer: "${{ secrets.USER_NAME }} <${{ secrets.USER_EMAIL }}>"
-          author: "${{ secrets.USER_NAME }} <${{ secrets.USER_EMAIL }}>"
         env:
-          GH_PAT: ${{ secrets.GH_TOKEN }}
+           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
