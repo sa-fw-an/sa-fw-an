@@ -6,7 +6,7 @@
 <h4 align="left">
 🔭 I’m working on Full Stack Web, Android Applications, Game and Blockchain Development.<br>
 🤝 Connect with me at isafwansayeed@gmail.com<br>
-💬 All my projects are available at www.safwansayeed.live
+💬 All my projects are available at www.safwansayeed.in
 </h4>
 
 <div align="right">
