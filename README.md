@@ -90,11 +90,11 @@
   </a>
 
   <a href="https://x.com/safwan_say" target="_blank">
-    <img src="./assets/x.svg" width="47" height="35" alt="x logo"  />
+    <img src="/assets/x.svg" width="47" height="35" alt="x logo"  />
   </a>
 
   <a href="https://reddit.com/u/safwan_say" target="_blank">
-    <img src="./assets/reddit.svg" width="47" height="35" alt="reddit logo"  />
+    <img src="/assets/reddit.svg" width="47" height="35" alt="reddit logo"  />
   </a>
 
   <a href="https://www.instagram.com/safwan_say1" target="_blank">
