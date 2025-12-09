@@ -17,7 +17,6 @@
 
 <div align="center">
  <img src="https://nirzak-streak-stats.vercel.app?user=sa-fw-an&theme=nightowl" height="160" alt="GitHub Streak" />
-  <img src='https://github-readme-stats.vercel.app/api/top-langs/?username=sa-fw-an&layout=compact&theme=radical' height="160"/>
 </div>
 
 <br>
